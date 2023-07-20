@@ -602,6 +602,35 @@ hr{
     width: 218px;
   }
 }
+.right-footer-sub
+{
+  position: relative;
+}
+@media screen and (max-width: 1008px){
+  .right-footer-sub{
+    top: 70px;
+  }
+}
+
+@media screen and (max-width: 856px) {
+  .right-footer-sub{
+    top: 200px;
+  }
+  .right-footer{
+    row-gap: 45px;
+  }
+}
+@media screen and (max-width: 628px){
+  .right-footer-sub{
+    top: 450px;
+  }
+  .right-footer-section{
+    row-gap: 60px;
+  }
+
+}
+
+
 
 
 
