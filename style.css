@@ -148,6 +148,7 @@ body{
   width: 23px;
   position: relative;
   top: 7px;
+  cursor: pointer;
 }
 .lib-playlist-des:first-of-type{
   color: white;
